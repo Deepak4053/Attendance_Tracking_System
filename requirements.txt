@@ -1,7 +1,8 @@
-opencv-python
-numpy
-tensorflow
-mtcnn
-scikit-learn
-pandas
-pickle-mixin
+streamlit
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+tensorflow==2.18.0
+mtcnn==1.0.0
+scikit-learn==1.5.2
+pandas==2.2.3
+pickle-mixin==1.0.2
