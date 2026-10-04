@@ -3,6 +3,7 @@ opencv-python-headless
 numpy
 tensorflow
 mtcnn
+keras-facenet
 scikit-learn
 pandas
 pickle-mixin
